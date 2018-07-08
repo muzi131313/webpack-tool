@@ -44,12 +44,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hubcarl/webpack-tool.git"
+    "url": "git+https://github.com/muzi131313/webpack-tool.git"
   },
   "bugs": {
-    "url": "https://github.com/hubcarl/webpack-tool/issues"
+    "url": "https://github.com/muzi131313/webpack-tool/issues"
   },
-  "homepage": "https://github.com/hubcarl/webpack-tool#readme",
-  "author": "hubcarl@126.com",
+  "homepage": "https://github.com/muzi131313/webpack-tool#readme",
+  "author": "muzi131313@163.com",
   "license": "MIT"
 }
